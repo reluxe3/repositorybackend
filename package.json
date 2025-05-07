@@ -1,0 +1,16 @@
+{
+  "name": "desplegando-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "reluxe3 <yoelfabricio123@gmail>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.5.0",
+    "nodemon": "^3.1.10"
+  }
+}
